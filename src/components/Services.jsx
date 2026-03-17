@@ -1,6 +1,6 @@
 import { services } from "../data/content";
 
-function ServiceCard({ title, description }) {
+export function ServiceCard({ title, description }) {
   return (
     <article className="rounded-[2rem] border border-slate-200 bg-white p-6 shadow-sm transition duration-300 hover:-translate-y-1 hover:border-blue-200 hover:shadow-md">
       <div className="mb-4 flex h-12 w-12 items-center justify-center rounded-2xl bg-blue-50 text-lg text-blue-700 ring-1 ring-blue-100">
