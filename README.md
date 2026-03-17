@@ -1,16 +1,20 @@
-# React + Vite
+# Northstar Agency
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Northstar Agency is a responsive landing page built with React, Vite, and Tailwind CSS, designed to showcase design-to-code front-end development.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Responsive multi-section layout
+- Reusable React components
+- Clean spacing and typography system
+- Mobile-friendly navigation
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- Vite
+- Tailwind CSS
 
-## Expanding the ESLint configuration
+## Purpose
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This project was built to demonstrate the ability to translate a design concept into a polished, responsive front-end application.
